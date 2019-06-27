@@ -102,9 +102,9 @@
 			"operatingSystem":["Windows","macOS","Linux"],
 			"genre":"Puzzle",
 			"name": "1 048 576",
-			"url": "https://www.znkvzr.com/apps/1048576/",
-			"image": "https://www.znkvzr.com/apps/1048576/resources/images/png/favicon.png",
-			"thumbnailUrl":"https://www.znkvzr.com/apps/1048576/resources/images/png/favicon.png",
+			"url": "https://znkvzr.com/apps/1048576/",
+			"image": "https://znkvzr.com/apps/1048576/resources/images/png/favicon.png",
+			"thumbnailUrl":"https://znkvzr.com/apps/1048576/resources/images/png/favicon.png",
 			"keywords":"2048, version, 1048576, 1 048 576, maxime, meurisse",
 			"description":"1 048 576 est basé sur le jeu de réflexion 2048. La différence est que vous ne commencez pas avec des tuiles de 2 et de 4 mais de 1024 et 2048 !",
 			"inLanguage":["French"],
@@ -112,12 +112,7 @@
 				"@type":"Person",
 				"name":"Maxime Meurisse",
 				"email": "mailto:maxime.meurisse@znkvzr.com",
-				"url":"http://znkvzr.com/",
-				"sameAs": [
-    				"https://www.facebook.com/maxime.meurisse.9",
-    				"https://twitter.com/MeurisseMax",
-    				"https://www.youtube.com/channel/UC3sUGAsvsZAGF9gJIMkjYng"
-  				]
+				"url":"http://znkvzr.com/"
 			}
 		}
 	</script>
