@@ -77,7 +77,7 @@
 		</p>
 		<hr>
 		<p>
-			Créé par <a href="http://gabrielecirulli.com/" target="_blank">Gabriele Cirulli</a>. Modifié par <a href="https://znkvzr.com/" target="_blank">Maxime Meurisse</a>.
+			Créé par <a href="http://gabrielecirulli.com/" target="_blank">Gabriele Cirulli</a>. Modifié par <a href="https://znkvzr.com/#team" target="_blank">Maxime Meurisse</a>.
 		</p>
 	</div>
 
