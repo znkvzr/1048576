@@ -91,31 +91,6 @@
 	<script src="./resources/js/local_storage_manager.js"></script>
 	<script src="./resources/js/game_manager.js"></script>
 	<script src="./resources/js/application.js"></script>
-	<script type="application/ld+json">
-		{
-			"@context": "http://schema.org",
-			"@type": "VideoGame",
-			"applicationCategory":"Game",
-			"sameAs":"https://fr.wikipedia.org/wiki/2048_(jeu_vid%C3%A9o)",
-			"isbasedOn":"https://gabrielecirulli.github.io/2048/",
-			"gamePlatform":["Browser"],
-			"operatingSystem":["Windows","macOS","Linux"],
-			"genre":"Puzzle",
-			"name": "1 048 576",
-			"url": "https://znkvzr.com/apps/1048576/",
-			"image": "https://znkvzr.com/apps/1048576/resources/images/png/favicon.png",
-			"thumbnailUrl":"https://znkvzr.com/apps/1048576/resources/images/png/favicon.png",
-			"keywords":"2048, version, 1048576, 1 048 576, maxime, meurisse",
-			"description":"1 048 576 est basé sur le jeu de réflexion 2048. La différence est que vous ne commencez pas avec des tuiles de 2 et de 4 mais de 1024 et 2048 !",
-			"inLanguage":["French"],
-			"publisher":{
-				"@type":"Person",
-				"name":"Maxime Meurisse",
-				"email": "mailto:maxime.meurisse@znkvzr.com",
-				"url":"http://znkvzr.com/"
-			}
-		}
-	</script>
 </body>
 
 </html>
